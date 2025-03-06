@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:secrete_friend_drawer/layout/colors.dart';
+import 'package:secrete_friend_drawer/layout/colors.dart';
 import 'package:flutter/material.dart';
 import '../widgets/draw/draw_form_widget.dart';
 import '../widgets/header_widget.dart';
+import '../widgets/header_widget.dart';
+import '../widgets/draw/draw_form_widget.dart';
 
 class DrawPage extends StatefulWidget {
   const DrawPage({
